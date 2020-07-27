@@ -6,8 +6,9 @@ import java.sql.ResultSet;
 import java.sql.Statement;
 
 /**
- * @author PK哥
- **/
+ * @author Aaron-yang
+ * @date 2020/7/23 10:36
+ */
 public class JDBCApp {
     private static String driverName = "org.apache.hive.jdbc.HiveDriver";
 
