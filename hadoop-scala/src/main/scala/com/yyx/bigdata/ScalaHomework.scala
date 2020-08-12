@@ -7,7 +7,7 @@ package com.yyx.bigdata
 object ScalaHomework {
 
   def main(args: Array[String]): Unit = {
-    println("斐波那契数列 : " + fibonacciSequence(100))
+    println("斐波那契数列 : " + fibonacciSequence(10))
 
     println("最初有多少个桃子 : " + monkeyQuestion(10,1))
   }
