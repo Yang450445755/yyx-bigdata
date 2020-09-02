@@ -3,7 +3,9 @@
         <modelVersion>4.0.0</modelVersion>
     <groupId>yyx-bigdata</groupId>
     <artifactId>yyx-bigdata</artifactId><packaging>pom</packaging>
-    <version>1.0-SNAPSHOT</version><modules><module>hadoop-scala</module></modules>
+    <version>1.0-SNAPSHOT</version><modules><module>hadoop-scala</module>
+    <module>spark</module>
+</modules>
     <name>yyx-com.yyx.bigdata Tapestry 5 Application</name>
 	  <properties>
        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>

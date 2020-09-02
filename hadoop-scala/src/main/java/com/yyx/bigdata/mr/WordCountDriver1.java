@@ -13,6 +13,7 @@ import org.apache.hadoop.mapreduce.lib.input.FileInputFormat;
 import org.apache.hadoop.mapreduce.lib.output.FileOutputFormat;
 
 import java.io.IOException;
+import java.util.LinkedList;
 
 /**
  * @author Aaron-yang
@@ -53,6 +54,7 @@ public class WordCountDriver1 {
         // 7 提交Job
         boolean result = job.waitForCompletion(true);
         System.exit(result? 0:1 );
+
     }
 
 
