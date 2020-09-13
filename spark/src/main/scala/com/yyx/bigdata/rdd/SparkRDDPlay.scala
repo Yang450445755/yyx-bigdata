@@ -1,4 +1,4 @@
-package com.yyx.bigdata
+package com.yyx.bigdata.rdd
 
 import org.apache.spark.{SparkConf, SparkContext}
 
@@ -11,8 +11,7 @@ object SparkRDDPlay {
 
   def main(args: Array[String]): Unit = {
     val sparkConf = new SparkConf()
-//      .setMaster("local")
-      .setAppName("yyxnb")
+      .setMaster("local").setAppName("yyxnb")
 
     val sc = new SparkContext(sparkConf)
 
