@@ -1,4 +1,4 @@
-package ruoze;
+package com.yyx.bigdata.rdd.ruoze;
 
 import org.apache.log4j.Logger;
 import org.springframework.stereotype.Controller;

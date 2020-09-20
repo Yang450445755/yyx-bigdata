@@ -12,7 +12,6 @@ object SparkRDDPlay {
   def main(args: Array[String]): Unit = {
     val sparkConf = new SparkConf()
       .setMaster("local").setAppName("yyxnb")
-
     val sc = new SparkContext(sparkConf)
 
 //    sc.makeRDD(List(("a", 1), ("b", 2), ("c", 3), ("a", 80))).reduceByKey((x,y)=>x+y).collect()

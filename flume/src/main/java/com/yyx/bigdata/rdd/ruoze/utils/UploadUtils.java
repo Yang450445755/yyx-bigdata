@@ -1,4 +1,4 @@
-package ruoze.utils;
+package com.yyx.bigdata.rdd.ruoze.utils;
 
 import java.io.IOException;
 import java.io.OutputStream;

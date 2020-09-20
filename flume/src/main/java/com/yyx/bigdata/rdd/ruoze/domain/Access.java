@@ -1,4 +1,4 @@
-package ruoze.domain;
+package com.yyx.bigdata.rdd.ruoze.domain;
 
 /**
  * @author PK哥

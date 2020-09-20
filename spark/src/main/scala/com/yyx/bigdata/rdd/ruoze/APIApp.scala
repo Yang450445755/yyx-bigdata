@@ -1,4 +1,4 @@
-package ruoze
+package com.yyx.bigdata.rdd.ruoze
 
 import org.apache.spark.{SparkConf, SparkContext}
 
