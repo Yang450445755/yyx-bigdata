@@ -14,10 +14,10 @@ object SparkRDDPlay {
       .setMaster("local").setAppName("yyxnb")
     val sc = new SparkContext(sparkConf)
 
-//    sc.makeRDD(List(("a", 1), ("b", 2), ("c", 3), ("a", 80))).reduceByKey((x,y)=>x+y).collect()
+    sc.makeRDD(List(("a", 1), ("b", 2), ("c", 3), ("a", 80))).reduceByKey((x,y)=>x+y).collect()
 //    sc.parallelize(List("yyx","dwq")).foreach(println)
 
-    testSum(sc)
+//    testSum(sc)
 //    groupingBy(sc)
 
 
