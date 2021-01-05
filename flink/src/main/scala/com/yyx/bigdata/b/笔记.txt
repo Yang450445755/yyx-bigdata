@@ -1,0 +1,14 @@
+
+00000001,ruozedata.com
+00000001,ruoze.ke.qq.com
+00000004,google.com
+00000003,twitter.com
+
+2022-07-10 18:10:13,222.55.57.83,ruozedata.com
+2022-07-10 18:10:13,114.246.50.2,ruoze.ke.qq.com 
+2022-07-10 18:10:13,222.55.57.83,google.com 
+
+基于域名角度
+基于用户角度
+
+http://...../path?a=b&c=d
