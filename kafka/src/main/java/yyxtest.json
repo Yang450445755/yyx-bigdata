@@ -1,0 +1,287 @@
+{
+	"uuid": "e0f8a52b-607a-48e4-b535-83b23e429875",
+	"ip": "172.16.0.142",
+	"app_info": {
+		"app_id": "com.finogeeks.club.cn2",
+		"name": "",
+		"app_version": "1.1.0",
+		"sdk_key": "22LyZEib0gLTQdU3MUauARL+C0QziSLZhCStRwak1uA=",
+		"sdk_version": "2.1.1"
+	},
+	"device_info": {
+		"device_id": "5ec632ef7f3b210001475d82",
+		"os": "iOS",
+		"os_version": "12.4.4",
+		"imei": "",
+		"mac": "",
+		"screen_size": "2232*1080",
+		"brand": "HONOR",
+		"model": "YAL-AL00"
+	},
+	"events": [{
+		"id": "",
+		"event_name": "?????",
+		"event_type": "applet_start",
+		"applet_id": "5ff3d0c6a484fc00014183c4",
+		"timestamp": 1609912489000,
+		"applet_ver": "",
+		"applet_sequence": 0,
+		"is_gray": false,
+		"payload": {
+			"load_time": 1622
+		},
+		"organ_id": "",
+		"basic_pack_version": ""
+	}, {
+		"id": "",
+		"event_name": "????",
+		"event_type": "page_show",
+		"applet_id": "5ff3d0c6a484fc00014183c4",
+		"timestamp": 1609912489000,
+		"applet_ver": "",
+		"applet_sequence": 0,
+		"is_gray": false,
+		"payload": {
+			"page_id": "80637733",
+			"path": "pages/server/index.html"
+		},
+		"organ_id": "",
+		"basic_pack_version": ""
+	}, {
+		"id": "",
+		"event_name": "?????",
+		"event_type": "applet_start",
+		"applet_id": "5ff3d0c6a484fc00014183c4",
+		"timestamp": 1609912489000,
+		"applet_ver": "",
+		"applet_sequence": 0,
+		"is_gray": false,
+		"payload": {
+			"load_time": 1647
+		},
+		"organ_id": "",
+		"basic_pack_version": ""
+	}, {
+		"id": "",
+		"event_name": "????",
+		"event_type": "page_hide",
+		"applet_id": "5ff3d0c6a484fc00014183c4",
+		"timestamp": 1609912489000,
+		"applet_ver": "",
+		"applet_sequence": 0,
+		"is_gray": false,
+		"payload": {
+			"page_id": "204433348",
+			"path": "pages/index/index.html"
+		},
+		"organ_id": "",
+		"basic_pack_version": ""
+	}, {
+		"id": "",
+		"event_name": "????",
+		"event_type": "page_show",
+		"applet_id": "5ff3d0c6a484fc00014183c4",
+		"timestamp": 1609912489000,
+		"applet_ver": "",
+		"applet_sequence": 0,
+		"is_gray": false,
+		"payload": {
+			"page_id": "175704090",
+			"path": "pages/index/index.html"
+		},
+		"organ_id": "",
+		"basic_pack_version": ""
+	}, {
+		"id": "",
+		"event_name": "?????",
+		"event_type": "applet_start",
+		"applet_id": "5ff3d0c6a484fc00014183c4",
+		"timestamp": 1609912489000,
+		"applet_ver": "",
+		"applet_sequence": 0,
+		"is_gray": false,
+		"payload": {
+			"load_time": 912795
+		},
+		"organ_id": "",
+		"basic_pack_version": ""
+	}, {
+		"id": "",
+		"event_name": "????",
+		"event_type": "page_show",
+		"applet_id": "5ff3d0c6a484fc00014183c4",
+		"timestamp": 1609912489000,
+		"applet_ver": "",
+		"applet_sequence": 0,
+		"is_gray": false,
+		"payload": {
+			"page_id": "196881056",
+			"path": "page/component/index.html"
+		},
+		"organ_id": "",
+		"basic_pack_version": ""
+	}, {
+		"id": "",
+		"event_name": "?????",
+		"event_type": "applet_start",
+		"applet_id": "5ff3d0c6a484fc00014183c4",
+		"timestamp": 1609912489000,
+		"applet_ver": "",
+		"applet_sequence": 0,
+		"is_gray": false,
+		"payload": {
+			"load_time": 3588
+		},
+		"organ_id": "",
+		"basic_pack_version": ""
+	}, {
+		"id": "",
+		"event_name": "????",
+		"event_type": "page_hide",
+		"applet_id": "5ff3d0c6a484fc00014183c4",
+		"timestamp": 1609912489000,
+		"applet_ver": "",
+		"applet_sequence": 0,
+		"is_gray": false,
+		"payload": {
+			"page_id": "175704090",
+			"path": "pages/index/index.html"
+		},
+		"organ_id": "",
+		"basic_pack_version": ""
+	}, {
+		"id": "",
+		"event_name": "????",
+		"event_type": "page_show",
+		"applet_id": "5ff3d0c6a484fc00014183c4",
+		"timestamp": 1609912489000,
+		"applet_ver": "",
+		"applet_sequence": 0,
+		"is_gray": false,
+		"payload": {
+			"page_id": "244584028",
+			"path": "pages/index/index.html"
+		},
+		"organ_id": "",
+		"basic_pack_version": ""
+	}, {
+		"id": "",
+		"event_name": "?????",
+		"event_type": "applet_start",
+		"applet_id": "5ff3d0c6a484fc00014183c4",
+		"timestamp": 1609912489000,
+		"applet_ver": "",
+		"applet_sequence": 0,
+		"is_gray": false,
+		"payload": {
+			"load_time": 1293335
+		},
+		"organ_id": "",
+		"basic_pack_version": ""
+	}, {
+		"id": "",
+		"event_name": "????",
+		"event_type": "page_hide",
+		"applet_id": "5ff3d0c6a484fc00014183c4",
+		"timestamp": 1609912489000,
+		"applet_ver": "",
+		"applet_sequence": 0,
+		"is_gray": false,
+		"payload": {
+			"page_id": "196881056",
+			"path": "page/component/index.html"
+		},
+		"organ_id": "",
+		"basic_pack_version": ""
+	}, {
+		"id": "",
+		"event_name": "????",
+		"event_type": "page_show",
+		"applet_id": "5ff3d0c6a484fc00014183c4",
+		"timestamp": 1609912489000,
+		"applet_ver": "",
+		"applet_sequence": 0,
+		"is_gray": false,
+		"payload": {
+			"page_id": "233624308",
+			"path": "page/component/index.html"
+		},
+		"organ_id": "",
+		"basic_pack_version": ""
+	}, {
+		"id": "",
+		"event_name": "?????",
+		"event_type": "applet_start",
+		"applet_id": "5ff3d0c6a484fc00014183c4",
+		"timestamp": 1609912489000,
+		"applet_ver": "",
+		"applet_sequence": 0,
+		"is_gray": false,
+		"payload": {
+			"load_time": 309182
+		},
+		"organ_id": "",
+		"basic_pack_version": ""
+	}, {
+		"id": "",
+		"event_name": "????",
+		"event_type": "page_hide",
+		"applet_id": "5ff3d0c6a484fc00014183c4",
+		"timestamp": 1609912489000,
+		"applet_ver": "",
+		"applet_sequence": 0,
+		"is_gray": false,
+		"payload": {
+			"page_id": "244584028",
+			"path": "pages/index/index.html"
+		},
+		"organ_id": "",
+		"basic_pack_version": ""
+	}],
+	"report_time": 160991200
+}
+
+
+
+
+
+
+
+
+
+
+
+
+agent1.sinks.sink1.type = hdfs
+agent1.sinks.sink1.hdfs.path = /hadoop/flume/%y-%m-%d/%H
+agent1.sinks.sink1.hdfs.filePrefix = log_%Y%m%d_%H
+agent1.sinks.sink1.hdfs.fileSuffix = .lzo
+agent1.sinks.sink1.hdfs.useLocalTimeStamp = true
+agent1.sinks.sink1.hdfs.writeFormat = Text
+agent1.sinks.sink1.hdfs.fileType = CompressedStream
+agent1.sinks.sink1.hdfs.codeC = lzop
+agent1.sinks.sink1.hdfs.rollCount = 0
+agent1.sinks.sink1.hdfs.rollSize = 0
+agent1.sinks.sink1.hdfs.rollInterval = 600
+agent1.sinks.sink1.hdfs.batchSize = 100
+agent1.sinks.sink1.hdfs.threadsPoolSize = 10
+agent1.sinks.sink1.hdfs.idleTimeout = 0
+agent1.sinks.sink1.hdfs.minBlockReplicas = 1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
